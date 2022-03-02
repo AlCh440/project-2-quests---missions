@@ -94,3 +94,8 @@ REMEMBER:
 ### Other 
 Insert dnd here
 talk about stormbraining
+
+
+Epic speech to help you get better quests: https://youtu.be/otAkP5VjIv8
+Epic speech part 2: https://youtu.be/ur6GQp5mCYs
+Grinding problems: https://game-wisdom.com/critical/video-game-grinding
