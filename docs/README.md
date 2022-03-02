@@ -58,6 +58,12 @@ Basically, you need to keep a balance in every stage of the quests, do not exten
 
 What I've seen in a lot of youtube videos explaining quests is this concept, being afraid to innovate or being creative. What I think they meant is to not be afraid of change. In this stage, where we all have been 2 years in unversity, we are not afraid to screw up or to not find ideas anymore, the problem (at least to me) is that a lot of new ideas traduces in changing the plot or modifying the world, being creative also means accepting and adapting to new ideas, so don't be afraid to accept strange or innovative ideas, even though they take away some of your old work.
 
+### Quests as a way of worldbuilding
+
+I've said it before but use all king of quests to show the player the world you have in your mind, create characters that evolve and have problems and use quests to just expand what you have created. The player will value more a new zone where there is an incredible mission where he can explore and fight some baddies that some mission to kill goblins.
 ### more...
 
-##
+## Process of creating quests
+
+Insert dnd here
+talk about stormbraining
