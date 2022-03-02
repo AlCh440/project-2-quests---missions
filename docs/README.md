@@ -94,8 +94,18 @@ REMEMBER:
 ### Other 
 Insert dnd here
 talk about stormbraining
+## Grinding
 
+Okay, last part of the document, grinding, we will define like this:
+
+"Position in time where the player ways to progress are limited to the ones that does are not designed for that level or point in time". Basically players don't have enough experience to advance to the next challenge due to dificulty or soft block and has to keep killing goblins and orcs to get to the next point in the game. From my experience this may happen for diferent reasons:
+
+- The combat or soft block in front is deisnged to be hard and the player don't have enough skill (strategic or mechanical) to beat the soft block. It happened to me when I was little in mario and luigi traveling through time, I LOVED the game but at one point I could not beat the Thwomp boss (I think), I had not enough skill and I ended up not finishing the game. The remorse keeps inside me 10 years later :(. A way to fix this and a good rule is: for every boss battle, the developer of the boss must be able to pass the boss hitless. It may be a little too harsh but that worked for Hollow Knight
+- Calculus of experience. Even with side quests the player must be able to beat the soft block
 
 Epic speech to help you get better quests: https://youtu.be/otAkP5VjIv8
+
 Epic speech part 2: https://youtu.be/ur6GQp5mCYs
+
 Grinding problems: https://game-wisdom.com/critical/video-game-grinding
+
