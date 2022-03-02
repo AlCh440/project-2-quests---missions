@@ -23,9 +23,10 @@ ME:
 - Gain strengh (gameplay)
 - Learn mechanics
 - Get to know more about characters
-- Learn about the amazing world we are creating"
+- Learn about the amazing world you are creating"
+- Create their own history in the world
 
-When I mention little stories, what I meant is that a quest have the same process and elements of the story(narrative of a game):
+When I mention little stories, what I mean is that a quest have the same process and elements of a story(narrative of a game):
 
 - An objective
 - An obstacle
@@ -42,7 +43,8 @@ The ones that contribute to the main hitory, you must finish them to reach to fi
 Those are more of little histories of their own (of course you can be original and twist them or chain them or whatever you think) that can be or not completed to reach the final point in the history. Take care not to give too many rewards or the BBEG (big bad evil guy, more known as final boss) will be easy. As reward, depending of the type of player you are tarjeting you can give different rewards, like unique skins or customization items, new zones to explore, new characters to befriend or lore (explorers are persons too, we all don't prefer skins to knowledge).
 
 REMEMBER: It does not matter what kind of quest is, the design of the quest is the same.
-But the most important thing I learnt through my process of research is: DO NOT CREATE A GOBLIN/ORC KILLING QUEST!
+
+On top of all of that, here comes the most important thing I learnt through my process of research is: DO NOT CREATE A GOBLIN/ORC KILLING QUEST!
 
 ## Good/bad things in quests
 
@@ -61,9 +63,34 @@ What I've seen in a lot of youtube videos explaining quests is this concept, bei
 ### Quests as a way of worldbuilding
 
 I've said it before but use all king of quests to show the player the world you have in your mind, create characters that evolve and have problems and use quests to just expand what you have created. The player will value more a new zone where there is an incredible mission where he can explore and fight some baddies that some mission to kill goblins.
+
+### Make sure the quest is avaliable and easy to acces to
+
+It happened to me being a DM(dungeon master), the players wouldn't reach the NPC that would give them and important piece of information and a new mission. I could fix it because DnD is in real-time, but being a designer is diferent. That takes me to the next point.
+
+### Playtest a LOT
+
+You will need to try new quests so ask a few friends, other teams(from project 2), ask for social networks (or ask me, happy to help) and get a bunch of people that has a little of experience in RPG and get them to try just the quests, are they playable as an individual adventure, do the quests fit in the history, are the rewards enough, does the intensity works well? All questions can be asked thanks to playtesting. Oh, and remember we have a Q&A team member so he can help manage the feedback.
+
+### Gameplay does not mean action
+
+A lot of quests don't need fight to be exciting, for example, in zelda breath of the wild, a very good example on quests(I think), there are a lot of side quests where you don't actually fight monsters, and it is equally fine. Instead give the players a puzzle or an exploration part with a lot of rewards to make them feel motivate and engaged. Again remember the kind of player you are designing for and this will end up well.
+
 ### more...
 
 ## Process of creating quests
 
+I actually have a very little experience creating quests and I am not sure how to tell you how to do it. I searched through the internet and nobody is disposed to tell to other their though process, so I will do my best in some points I found in talks and from myself.
+
+### My own process
+
+Basically I try to take it into roleplaying tabletop games. I played a bit and I've been a master for one or two "one-shots" (one meeting history that starts and concludes). First I ask myself what I need from that quest. Is it a new item they need for the story (doors and keys like metroidvanias) or it is a way to give the player more power? Maybe it is just to add more story to the adventure or present a new NPC, etc... There are a lot of options and knowing what it the first priority is always good in design. After knowing the objective of the quest I make a brainstorm of limited time, like 1 hour or 1 day (remember to bring always something to write or save thoughs). I don't sit and think about what I need, i do other work or hobbies, and my brain will eventually end up spacing out and having some ideas. Any other kind of process of brainstorming here will work too, the objective is to have a lot of ideas were we can pick the one that fits the most. From there the designer/writer will expand the idea and the programmer will implement it, so it is downhill from here. A good idea is to keep a map or timeline to show all the quests to keep track of consistency. 
+
+REMEMBER:
+
+- Give time to stormbrain, it is hard to creat a large list of ideas
+- Don't give the task of creating new ideas/things to the designer, all team members in a small team can have and present good ideas
+
+### Other 
 Insert dnd here
 talk about stormbraining
